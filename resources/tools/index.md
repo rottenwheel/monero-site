@@ -35,6 +35,7 @@ meta_descr: meta_descr.tools
                         <h2>{% t tools.address-generators %}</h2>
                         <p><a href="https://xmr.llcoins.net/">xmr.llcoins.net</a></p>
                         <p><a href="https://monerotech.info/">monerotech.info</a></p>
+                        <p><a href="https://web.getmonero.org/generator/">getmonero.org/generator</a></p>
                     </div>
                 </div>
             </div>
